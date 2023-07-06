@@ -1,0 +1,124 @@
+<DOCTYPE HTML>
+	<HTML lang="fr">
+		<HEAD>
+		<meta charset="utf-8"
+		
+		<script type="javascript" href="test.js"></script>
+		
+<link rel="stylesheet" href="test.css">
+	<title>Document</title>
+		</HEAD>
+
+		<BODY>
+<H1>Le titre principal</H1>
+<a href="#ancre1">section explication</a></BODY></br>
+<a href="#ancre2">section liste et tableau</a>
+<dir id="section1">
+<input type="checkbox" name="majeur" checked>
+<label>valider le controle parental</label>
+</dir>
+<dir id="section2">
+<input type="text" name="saisieage" placeholder="saisie ton age" >
+<input type="button" name="bouton" value="valider">
+</dir>
+
+<H2 id="titresecondaire">le titre secondaire</H2>
+
+<PRE id="ancre1">
+
+haut
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nous devons vérifier
+
+Que le jeune
+
+Soit bien    majeur...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bas
+
+</PRE>
+
+<dir id="ancre2">	
+<ul>	
+<li>cadet	</li>
+<li>junior	</li>
+<li>senior	</li>
+<li>véteran	</li>
+</ul>
+
+<table id="table1">	
+<TR>	
+<TD>age	</TD>
+<TD>cathégorie	</TD>
+<TD>prix	</TD>
+</TR>
+
+<TR>	
+<TD>cadet	</TD>
+<TD>14 ans	</TD>
+<TD>200€	</TD>
+</TR>
+
+<TR>	
+<Td>junior	</TD>
+<TD>16 ans	</TD>
+<TD>220€	</TD>
+</TR>
+
+<TR>	
+<Td>senior	</TD>
+<TD>18 ans	</TD>
+<TD>240€	</TD>
+</TR>
+
+<TR>	
+<Td>vétéran	</TD>
+<TD>35 ans	</TD>
+<TD>280€	</TD>
+</TR>
+
+
+</table>
+
+</dir>	
+
+
+
+
+		</BODY>
+
+
+
+	</HTML>	
